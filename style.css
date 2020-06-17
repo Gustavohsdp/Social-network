@@ -4,13 +4,19 @@ body {
     background-color: #ac90e4;
 }
 h1 {
-    font-size: 32px;
+    font-size: 50px;
     font-family: 'Roboto', sans-serif;
     text-align: center;
     color: #6654a3;
 
     margin-top: 100px;
 
+}
+h3 {
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #6654a3;
 }
 .middle {
     position: absolute;
