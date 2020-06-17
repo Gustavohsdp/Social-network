@@ -1,13 +1,13 @@
 body {
     padding: 0;
     margin: 0;
-    background-color: rgb(191, 218, 250);
+    background-color: #ac90e4;
 }
 h1 {
     font-size: 32px;
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    color: #3498db;
+    color: #6654a3;
 
     margin-top: 100px;
 
@@ -27,7 +27,7 @@ h1 {
     margin: 10px;
     border-radius: 30%;
     box-shadow: 0 5px 15px -5px #00000070;
-    color: #3498db;
+    color: #7159c1;
     overflow: hidden;
     position: relative;
 }
@@ -45,7 +45,7 @@ h1 {
     position: absolute;
     width: 120%;
     height: 120%;
-    background: #3498db;
+    background: #7159c1;
     transform: rotate(45deg);
     left: -100%;
     top: 90%;
